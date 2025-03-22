@@ -1,4 +1,4 @@
-# AdventureWorks Sales Performance Dashboard
+# Sales Performance Dashboard - PowerBI
 
 ## Overview
 
